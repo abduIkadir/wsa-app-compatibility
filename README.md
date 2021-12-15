@@ -54,6 +54,8 @@ wsa://com.android.settings
 
 | Application    | Latest tested version | Support level | Known Issues  | Notes |
 |----------------|-----------------------|---------------|---------------|-------|
+| 1.1.1.1 | 6.9 | ❌ | "Device not supported" error ||
+| 9GAG | 6.121.04r24912-de269f5b42 | ✅ |||
 | 23andMe | 5.114.0 | ✅ |||
 | 4PDA | 1.9.35 | ✅ |||
 | 8 ball pool | 5.5.6 | ✅ |||
@@ -86,7 +88,6 @@ wsa://com.android.settings
 | Azur Lane | 6.0.1 | ✅ |||
 | Bad Piggies HD | 2.4.3141 | ✅ | | |
 | BanG Dream! Girls Band Party! | 4.5.0 | 🆖 | Requires GMS | |
-| Battle Cats Quest | 1.0.4 | ✅ |||
 | Bromite | 94.0.4606.94 |  ✅ |  | Use x64 build |
 | Brawl Stars | 38.159 | ❌ | Game crashes ||
 | Brave Browser | 1.30.87 | ✅ ||
@@ -97,12 +98,10 @@ wsa://com.android.settings
 | Candy Crush Saga | 1.213.2.1 (12132011) | ✅ |||
 | Canvas Student | 6.14.1 | ✅ |||
 | CarX Highway Racing | 1.17.1 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS ||
-| C.A.T.S (Crash Arena Turbo Stars) | 2.40.2 | ✅ | GMS warnings might appear but these can be safely ignored ||
 | 超星学习通 | 5.0.3 |❌| Crashes on startup ||
 | 超星学习通 | 4.6.1 |✅|||
 | Clash of Clans | 14.211.3 | ❌ | App crashes ||
-| Clash Royale | 3.6.1 | ❌ | App crashes ||
-| Clash Mini | 1.1142.10 | ❌ | App crashes ||
+| Clash Royale | 3.6.1 |❌ | App crashes ||
 | Classroom by Google | 7.6.381.20.90.2 | 🆖 | Requires GMS ||
 | Clouds & Sheep 2 | 1.4.6 | ✅ | Optionally uses GMS ||
 | Clubhouse | 1.0.11 | ⚠️ | Unable to login via phone number, it throws error after entering the OTP | |
@@ -120,6 +119,7 @@ wsa://com.android.settings
 | Discord | 98.6 | ✅ |||
 | Дурак Онлайн (Durak Online) | 1.9.2 | 🆖 | Requires GMS ||
 | DMM Games Store | 2.8.0 | 🆖 | Requires GMS ||
+| DuckDuckGo Privacy Browser | 5.105.1 | ✅ | | |
 | Duolingo | 5.2.35 | ✅ | | |
 | Easybell | 2.1.30 | ✅ | | |
 | Epic Seven | 1.0.406 | ⚠️ | Low FPS, unable to sign in with Google ||
@@ -152,14 +152,12 @@ wsa://com.android.settings
 | Guardian Tales | 2.23.2 | 🆖 | Requires GMS ||
 | Grab | 5.172.200 from Huawei AppGallery | ✅ ||
 | Grand Theft Auto: San Andreas |  | ✅ ||
-| Hill Climb Racing | 1.53.0 (501) | ✅ ||
 | Hitman Sniper | 1.7.193827 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS ||
 | Hobi | 2.1.7 | 🆖 | Requires GMS |
 | 崩坏学园2 (Honkai Gakuen 2)| 8.5 | ✅ | | Game has inbox keyboard controller for WASD |
 | Honkai Impact 3rd| 5.1.0 | ⚠️ | Poor graphics quality |
 | HTV (hanime tv) | 3.6.7 | ⚠️ | Failed to play video | Internal player don't work, asks for external player and fails again |
 | Huawei AppGallery  | 11.4.2.300 | ✅ | Frequent crashes were experienced, otherwise the app functionality is fine ||
-| Hungry Shark Evolution | | ✅ |||
 | Hyper Square | 3.0.1 | ✅ ||
 | iDOLM@STER Million Live! Theater Days | 4.0.401 | ⚠️ | Anything 3D with a moving background is broken, but everything 2D works perfectly | ARMv7 version is unusably slow, get ARM64 |
 | iOS app (any) | | ❌ | Thanks for testing, Brad. |
@@ -174,12 +172,11 @@ wsa://com.android.settings
 | JuiceSSH | 3.2.2 | ⚠️ | Connecting to SSH server needs multiple tries | |
 | Kahoot | | ✅ |||
 | Khan Academy | 7.3.3 | ✅ | | |
-| Kik | 7.10.1.176 (82)  | ✅ |||
+| Kik | 7.10.1.176 (82)  | ✅ ||
 | Kindle | 8.47.1.3370 | ✅ | | |
 | KINGDOM HEARTS Uχ Dark Road | 4.4.0 (Offline) | ✅ | GMS warnings might appear but these can be safely ignored ||
 | Konosuba:FD | 1.12.1 | 🆖 | Requires GMS ||
-| KRL Access | 4.1.0 | ❌ | App crashes | ||
-| Last Day On Earth: Survival || 🆖 | Might require GMS ||
+| KRL Access | 4.1.0 | ❌ | App crashes | |
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | ❌ | App crashes ||
 | League of Legends: Wild Rift | | ✅ ||
 | Libby | 4.3.1 | ✅ | | |
@@ -205,7 +202,6 @@ wsa://com.android.settings
 | Monument Valley | 2.7.17 | ✅ |||
 | Monument Valley 2 | 2.0.3 | ✅ |||
 | Moodle | 3.9.5 | ✅ | | |
-| Mortal Kombat X(APKPure) | 5.9.0 | ❌ | Stuck on initialization screen, message shows up saying "Download failed to start" ||
 | MT File Manager | 2.10.0 | ✅ |||
 | Musically (TikTok) | 7.8.0 | ✅ |||
 | Muslim Pro | 1.2.3 | 🆖 | Requires GMS |
@@ -219,6 +215,7 @@ wsa://com.android.settings
 | Network IP Scanner | 3.2 | ⚠️ | Only scans WSA's own VirtWifi network | |
 | NFL | 56.1.7 | ❌ | App crashes ||
 | NieR Re[in]carnation | 1.7.1 | ❌ | Unable to get past the loading screen ||
+| Nonogram Katana | 15.11 | ✅ | | |
 | Nova Launcher | 7.0.49 (7049) | ⚠️ | UI is messy, but app drawer is fine |
 | Office | 16.0.14527.20162 | ✅ || Might require microG |
 | Office Lens | 16.0.14527.20178 | ❌ | Might require GMS, cannot sign in ||
@@ -257,7 +254,6 @@ wsa://com.android.settings
 | QPython 3L | 3.0.0 | ✅ | | |
 | QQ | 8.2.11 | ✅ |||
 | Rayman Classic | 1.0.1 | ✅ |||
-| Rider | 1.59 | ✅ |||
 | Reddit | | ✅ |||
 | Relay | 10.0.378 | ✅ |||
 | Remote Desktop (Microsoft) | 10.0.12.1148 | ✅|||
@@ -269,6 +265,7 @@ wsa://com.android.settings
 | Shadow Fight 3 | 1.25.7 | ✅ | Optionally uses GMS, Cloud save using Facebook not working | Keyboard control are supported uses (W A D X) to use analog, GMS warnings might appear but these can be safely ignored, Cloud save requires GMS |
 | Shizuku | 12.3.0.r668.5687d0c | ✅ | Works well with Wireless debugging |
 | Simple Gallery | 5.3.9 | ❌ | App crashes when you try to view a photo ||
+| Sky Force 2014 | 1.44 | ⚠️ | Unstable fps throught the game ||
 | Sky: Children of the Light | 0.15.1 | ❌ | OpenGL ES 3.1, Vulkan 1.0.3 and Vulkan level 0 missing ||
 | Slack | 21.11.20.0-B | ✅ | | |
 | Smart Life | 3.32.5 | ❌ | The app is producing constant flashes between light and dark mode, and the UI element of agreement pop-up is moving on screen so it can't be accepted ||
@@ -315,7 +312,6 @@ wsa://com.android.settings
 | VLC | 3.4.0 | ✅ ||
 | VK | 6.58 | ✅ ||
 | VooV (腾讯会议国际版) | 2.12.5.504 | ✅ ||
-| War Robots | 7.7.7 (134783) | ✅ | GMS warnings might appear but these can be safely ignored |
 | Warden | 1.0.3.release | ⚠️ | App screen flashes otherwise functionality-wise its normal |
 | WhatsApp | 2.21.20.20 | ⚠️ | WhatsApp cloud chat backups will not work, app was tested with microG installed |
 | Where is my Water? || ⚠️ | Many images are replaced with white rectangles |
